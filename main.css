@@ -1,0 +1,21 @@
+.wrapper {
+  width: 200px;
+  height: 200px;
+  background-color: yellow; }
+  .wrapper p {
+    font-size: 30px;
+    color: green;
+    font-family: "open sans", sans-serif; }
+
+/* challenge
+
+
+create a variable called $font-name that is set to "open sans", sans-serif
+
+set the p tag's font family to $font-name
+
+check your css to make sure it has been created properly.
+
+*/
+
+/*# sourceMappingURL=main.css.map */

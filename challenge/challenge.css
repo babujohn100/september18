@@ -1,0 +1,14 @@
+.wrapper {
+  width: 200px;
+  height: 400px;
+  background-color: #bada55;
+  color: #fafafa; }
+  .wrapper p {
+    font-size: 30px;
+    color: #bada55;
+    font-family: "sans-serif"; }
+  .wrapper:hover {
+    background-color: #fafafa;
+    color: #bada55; }
+
+/*# sourceMappingURL=challenge.css.map */
